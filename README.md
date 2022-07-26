@@ -1,4 +1,4 @@
-### Olá guys 👋
+### Olá!!! 👋
 
 - 🔭 Sou a Giovanna
 - 🌱 Atualmente estudando DevOps/Data Science/Front-end
